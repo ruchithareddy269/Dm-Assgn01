@@ -3,14 +3,14 @@ CMPE 255: Data Mining
 
 1:Project Using GPT-4
 
-Medium.txt: This File contains the link of the medium story where I have generated a data science project named "FRAUD DETECTION" using GPT-4.
+Link_to_my_medium_article: This File contains the link of the medium story where I have generated a data science project named "FRAUD DETECTION" using GPT-4.
 I have learned about data science's foundations through this assignment. We are discovering the iterative methodology it employs. We are also learning about the many stages of the data science process and the different stages that are necessary (for example, Business Understanding, Data Understanding, Data Preparation, Data Analysis, Data Modeling, Model Evaluation & Model Deployment).
 
 
 2: Application using GPT_ENGINEER
 
 Please find the below list of the files and their associated descriptions: 
-Dm_Assgn01/VideoApplication: This is a video of a website created with the help of Gpt-Engineer using the prompt given by us.
+Dm_Assgn01/Video_application: This is a video of a website created with the help of Gpt-Engineer using the prompt given by us.
 Based on the requirements mentioned in prompt, we can start by creating a single HTML file that contains the webpage with the heading and login details. We don't need any additional classes or functions for this simple webpage.
 
 index.html: This is the entrypoint file that contains the HTML structure of the webpage.
